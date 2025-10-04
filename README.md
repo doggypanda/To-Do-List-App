@@ -13,5 +13,3 @@ A simple **To-Do List Web App** built with **HTML, CSS, and JavaScript** demonst
 - 💾 **Persistent Storage** – Tasks are saved in **localStorage**  
 
 ---
-## Demo Screenshot
-![screenshot](output.jpeg)
